@@ -37,4 +37,4 @@ This dashboard is designed to answer the following business questions:
 5. Applied formatting, colours, and titles for a professional layout.
 6. Published the completed project to GitHub with the dataset, Power BI file, screenshots, and documentation.
 ## Dashboard
-Capture.png(https://github.com/rishinisewwandi16-jpg/PowerBI-Sales-Dashboard-/blob/main/Capture.PNG)
+<img width="883" height="484" alt="Capture" src="https://github.com/user-attachments/assets/169e36e6-6217-472a-a07f-a01ffb44b35b" />
