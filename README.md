@@ -36,3 +36,5 @@ This dashboard is designed to answer the following business questions:
 4. Built three interactive dashboard pages with charts, KPI cards, tables, and slicers.
 5. Applied formatting, colours, and titles for a professional layout.
 6. Published the completed project to GitHub with the dataset, Power BI file, screenshots, and documentation.
+## Dashboard
+-
