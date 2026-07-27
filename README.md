@@ -30,56 +30,9 @@ This dashboard is designed to answer the following business questions:
 
 ## Process
 
-### 1. Data Collection
-- Created a realistic sales dataset in Microsoft Excel with 200 sales records.
-- Included fields such as Order ID, Date, Region, Product, Category, Salesperson, Quantity, Unit Price, and Total Sales.
-
-### 2. Data Import
-- Imported the Excel dataset into Microsoft Power BI Desktop.
-- Verified and corrected data types for all columns.
-
-### 3. Data Preparation
-- Reviewed the dataset for consistency.
-- Ensured dates, numeric values, and text fields were correctly formatted.
-
-### 4. Data Modelling
-- Built a simple data model using the imported dataset.
-- Created DAX measures for key performance indicators (KPIs):
-  - Total Sales
-  - Total Orders
-  - Total Quantity
-  - Average Sales
-
-### 5. Dashboard Development
-Designed three interactive dashboard pages:
-
-#### Page 1 – Executive Dashboard
-- KPI Cards
-- Sales Trend
-- Sales by Region
-- Sales by Category
-- Sales by Salesperson
-- Interactive Slicers
-
-#### Page 2 – Product Performance Dashboard
-- Top Selling Products
-- Product Sales Comparison
-- Sales Distribution by Category
-- Product Details Table
-
-#### Page 3 – Regional & Salesperson Performance Dashboard
-- Sales by Region
-- Sales by Salesperson
-- Sales Trend by Region
-- Detailed Sales Table
-
-### 6. Dashboard Formatting
-- Applied a professional colour theme.
-- Added descriptive titles.
-- Formatted charts, tables, and KPI cards.
-- Improved readability with consistent fonts and spacing.
-
-### 7. Publishing
-- Saved the project as a `.pbix` file.
-- Captured screenshots of each dashboard page.
-- Uploaded the Power BI file, dataset, screenshots, and README to GitHub.
+1. Collected and prepared a 200-row sales dataset in Excel.
+2. Imported the dataset into Power BI Desktop.
+3. Created DAX measures for Total Sales, Total Orders, Total Quantity, and Average Sales.
+4. Built three interactive dashboard pages with charts, KPI cards, tables, and slicers.
+5. Applied formatting, colours, and titles for a professional layout.
+6. Published the completed project to GitHub with the dataset, Power BI file, screenshots, and documentation.
