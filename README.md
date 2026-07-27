@@ -26,7 +26,7 @@ This dashboard is designed to answer the following business questions:
 - Which salesperson achieved the highest sales?
 - How does sales performance vary by region?
 - What are the detailed sales transactions by region and salesperson?
-##Dashboard Interaction
+## Dashboard Interaction
 - <a href="https://github.com/rishinisewwandi16-jpg/PowerBI-Sales-Dashboard-/raw/refs/heads/main/1st%20dashboard.pbix">view Dashboard</a>
 
 ## Process
@@ -39,8 +39,8 @@ This dashboard is designed to answer the following business questions:
 6. Published the completed project to GitHub with the dataset, Power BI file, screenshots, and documentation.
 ## Dashboard
 <img width="883" height="484" alt="Capture" src="https://github.com/user-attachments/assets/169e36e6-6217-472a-a07f-a01ffb44b35b" />
-## Project Insights
 
+## Project Insights
 - Electronics generated the highest sales among all product categories.
 - Sales performance varied across different regions and salespersons.
 - A small number of products contributed significantly to overall sales.
