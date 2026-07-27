@@ -26,3 +26,4 @@ This dashboard is designed to answer the following business questions:
 - Which salesperson achieved the highest sales?
 - How does sales performance vary by region?
 - What are the detailed sales transactions by region and salesperson?
+- Dashboard Interaction <a href="https://github.com/rishinisewwandi16-jpg/PowerBI-Sales-Dashboard-/raw/refs/heads/main/1st%20dashboard.pbix">view Dashboard</a>
